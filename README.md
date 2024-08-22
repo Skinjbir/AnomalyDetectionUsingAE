@@ -1,4 +1,2 @@
-﻿# packetAnomaly
-sss
-# AnomalyDetectionUsingAE
+﻿# AnomalyDetectionUsingAE
 # AnomalyDetectionUsingAE
